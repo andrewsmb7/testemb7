@@ -1,3 +1,3 @@
 # Car Fleet Analytics
 
- - blank - 
+ Script APP_CARCHECK.py sob construção. Não funcional
